@@ -15,7 +15,7 @@
   },
   "production": {
     "username": "tqsxmxqrhumpqe",
-    "password": "a293c2cc9184933a7ef28f60e61a",
+    "password": "a293c2cc9184933a7ef28f60e61ace9895b377ca81ee0a56110bde46dfdddebd",
     "database": "de06b5lpbdui1",
     "host": "ec2-23-23-241-119.compute-1.amazonaws.com",
     "dialect": "postgres"
