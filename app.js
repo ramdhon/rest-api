@@ -22,10 +22,10 @@ const config = {
     dialect: "mysql"
   },
   production: {
-    username: "root",
+    username: "tqsxmxqrhumpqe",
     password: process.env.PASSWORD_PRODUCTION,
-    database: "database_production",
-    host: "127.0.0.1",
+    database: "de06b5lpbdui1a",
+    host: "ec2-23-23-241-119.compute-1.amazonaws.com",
     dialect: "mysql"
   }
 }
