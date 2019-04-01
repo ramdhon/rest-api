@@ -26,7 +26,7 @@ const config = {
     password: process.env.PASSWORD_PRODUCTION,
     database: "de06b5lpbdui1a",
     host: "ec2-23-23-241-119.compute-1.amazonaws.com",
-    dialect: "mysql"
+    dialect: "postgres"
   }
 }
 
